@@ -1,0 +1,800 @@
+Article#Type#Possessor#psr_c#order#Duration#TP#Dur_c
+The Art of Painting # PER # Johannes Vermeer # PC #1# 1665-1668 # Dur # UC 
+The Art of Painting # PER # Catharina # PC #2# Unknown-1676 # Dur # C 
+The Art of Painting # PER # Maria Thins # PC #3#1676# Dur # C 
+The Art of Painting # PER # Jacob Dissius # PUC #4#1677# Dur # C 
+The Art of Painting # PER # Gerard van Swieten # PC #5# Unknown ##
+The Art of Painting # PER # Gottfried van Swieten # PC #6# Unknown ##
+The Art of Painting # PER # Rudolf Czernin # PC #7#1813# Dur # C 
+The Art of Painting # PER # Adolf Hitler # PC #8#1940# Dur # C 
+The Art of Painting # ORG # Czernin Museum # PC #7#1813# Dur # C 
+The Art of Painting # ORG # Linzer Museum # PC #8#1940# Dur # C 
+The Art of Painting # ORG # The Americans # PC #12# Unknown-1946 # Dur # C 
+The Art of Painting # ORG # the Austrian Government # PC #13#1946# Dur # C 
+The Art of Painting # ORG # Kunsthistorisches Museum # PC #14# 1958-Now # Dur # C 
+The Art of Painting # GPE # Vienna # PC #7#1813# Dur # C 
+The Art of Painting # GPE # Vienna # PC #11# Unknown ##
+The Art of Painting # GPE # Vienna # PC #14# 1958-Now # Dur # C 
+The Art of Painting # GPE # Altaussee # PC #9#1945# Dur # C 
+The Art of Painting # GPE # Munich # PC #10# Unknown ##
+St. John the Baptist (Leonardo) # PER # Leonardo da Vinci # PC #1# 1513-1516 # Dur # UC 
+St. John the Baptist (Leonardo) # PER # King Francis # PC #2#1542# Dur # C 
+St. John the Baptist (Leonardo) # PER # Louis XIII # PC #3# Unknown-1625 # Dur # C 
+St. John the Baptist (Leonardo) # PER # King Charles I # PC #4# 1625-1649 # Dur # C 
+St. John the Baptist (Leonardo) # PER # Eberhard Jabach # PC #5#1649# Dur # C 
+St. John the Baptist (Leonardo) # PER # Cardinal Mazarin # PC #6#1661# Dur # C 
+St. John the Baptist (Leonardo) # PER # Louis XIV # PC #7#1649# Dur # C 
+St. John the Baptist (Leonardo) # ORG # Louvre # PC #8# revolution-Now # Dur # C 
+Sistine Madonna # PER # Raphael Sanzio # PC #1#1512# Dur # C 
+Sistine Madonna # ORG # the church of San Sisto # PC #1#1512# Dur # C 
+Sistine Madonna # ORG # Gemäldegalerie Alte Meister # PC #9# Unknown-Now # Dur # C 
+Sistine Madonna # ORG # New Royal Museum # PC #3#1855# Dur # C 
+Sistine Madonna # ORG # Red Army # PC #5# Unknown ##
+Sistine Madonna # ORG # exhibition # PC #8#1946# Dur # C 
+Sistine Madonna # GPE # Piacenza # PC #1#1512# Dur # C 
+Sistine Madonna # GPE # Dresden # PC #2#1754# Dur # C 
+Sistine Madonna # GPE # Germany # PC #2#1754# Dur # C 
+Sistine Madonna # GPE # Germany # PC #9# Unknown-Now # Dur # C 
+Sistine Madonna # GPE # Saxon Switzerland # PC #4# World War II # Dur # C 
+Sistine Madonna # GPE # Pillnitz # PC #6# Unknown ##
+Sistine Madonna # GPE # Moscow # PC #7# Unknown ##
+Sistine Madonna # GPE # Pushkin # PC #8#1946# Dur # C 
+Bal du moulin de la Galette # PER # Pierre-Auguste Renoir # PC #1#1876# Dur # C 
+Bal du moulin de la Galette # PER # Gustave Caillebotte # PC #2# 1879-1894 # Dur # C 
+Bal du moulin de la Galette # ORG # French Republic # PC #3#1894# Dur # C 
+Bal du moulin de la Galette # ORG # Musée du Luxembourg # PC #4# 1896-1929 # Dur # C 
+Bal du moulin de la Galette # ORG # Musée du Louvre # PC #5#1929# Dur # C 
+Bal du moulin de la Galette # ORG # Musée d'Orsay # PC #6# 1986-Now # Dur # C 
+Bal du moulin de la Galette # GPE # Paris # PC #4# 1896-1929 # Dur # C 
+Bal du moulin de la Galette # GPE # Paris # PC #6# 1986-Now # Dur # C 
+The Persistence of Memory # PER # Salvador Dalí # PC #1#1931# Dur # C 
+The Persistence of Memory # PER # anonymous donor # PC #3# Unknown-1934 # Dur # C 
+The Persistence of Memory # ORG # Julien Levy Gallery # PC #2#1932# Dur # C 
+The Persistence of Memory # ORG # Museum of Modern Art # PC #4# 1934-Now # Dur # C 
+The Persistence of Memory # ORG # New York City # PC #4# 1934-Now # Dur # C 
+Peatery in Drenthe # PER # Vincent van Gogh # PC #1#1883# Dur # C 
+Peatery in Drenthe # ORG # Sotheby's # PC #2# Unknown-2004 # Dur # C 
+Peatery in Drenthe # ORG # private collection # PC #3# 2004-Now # Dur # C 
+The Sleeping Gypsy # PER # Henri Rousseau # PC #1#1897# Dur # C 
+The Sleeping Gypsy # PER # Parisian charcoal merchant # PC #3# Unknown-1924 # Dur # C 
+The Sleeping Gypsy # PER # Louis Vauxcelles # PC #4#1924# Dur # C 
+The Sleeping Gypsy # PER # Daniel-Henry Kahnweiler # PC #5#1924# Dur # C 
+The Sleeping Gypsy # PER # Alfred H. Barr Jr. # PC #6# Unknown ##
+The Sleeping Gypsy # ORG # 13th Salon des Indépendants # PC #2# Unknown ##
+The Sleeping Gypsy # ORG # Museum of Modern Art # PC #7# Unknown-Now # Dur # C 
+The Sleeping Gypsy # GPE # New York # PC #7# Unknown-Now # Dur # C 
+Arnolfini Portrait # PER # Jan van Eyck # PC #1#1434# Dur # C 
+Arnolfini Portrait # PER # the sitters # PC #2#1434# Dur # C 
+Arnolfini Portrait # PER # Giovanni di Nicolao Arnolfini # PUC #2#1434# Dur # C 
+Arnolfini Portrait # PER # Diego de Guevara # PC #3#1516# Bef # C 
+Arnolfini Portrait # PER # Margaret of Austria # PC #4#1516# Dur # C 
+Arnolfini Portrait # PER # Mary of Hungary # PC #5#1530# Dur # C 
+Arnolfini Portrait # PER # Philip II of Spain # PC #7#1558# Dur # C 
+Arnolfini Portrait # PER # Carlos II # PC #9#1700# Bef # C 
+Arnolfini Portrait # PER # Colonel James Hay # PC #12#1816# Dur # C 
+Arnolfini Portrait # PER # Colonel James Hay # PC #14# 1818-1828 # Dur # C 
+Arnolfini Portrait # PER # George IV of England # PC #13# 1816-1818 # Dur # C 
+Arnolfini Portrait # ORG # Alcazar Palace # PC #8#1599# Dur # C 
+Arnolfini Portrait # ORG # Palacio Nuevo # PC #10#1794# Dur # C 
+Arnolfini Portrait # ORG # National Gallery # PC #16# 1842-Now # Dur # C 
+Arnolfini Portrait # ORG # a public exhibition # PC #15#1841# Dur # C 
+Arnolfini Portrait # GPE # Netherlands # PC #4#1516# Dur # C 
+Arnolfini Portrait # GPE # Mechelen # PC #4#1516# Dur # C 
+Arnolfini Portrait # GPE # Spain # PC #6#1556# Dur # C 
+Arnolfini Portrait # GPE # Madrid # PC #8#1599# Dur # C 
+Arnolfini Portrait # GPE # Madrid # PC #10#1794# Dur # C 
+Arnolfini Portrait # GPE # London # PC #12#1816# Dur # C 
+Arnolfini Portrait # GPE # London # PC #16# 1842-Now # Dur # C 
+Arnolfini Portrait # GPE # Brussels # PC #11#1815# Dur # C 
+Portrait of Adele Bloch-Bauer I # PER # Gustav Klimt # PC #1# 1903-1907 # Dur # C 
+Portrait of Adele Bloch-Bauer I # PER # Ronald Lauder # PC #5# Unknown-Now # Dur # C 
+Portrait of Adele Bloch-Bauer I # ORG # Nazis # PC #2#1941# Dur # C 
+Portrait of Adele Bloch-Bauer I # ORG # Österreichische Galerie Belvedere # PC #3# Unknown ##
+Portrait of Adele Bloch-Bauer I # ORG # the family # PC #4#2006# Dur # C 
+Portrait of Adele Bloch-Bauer I # ORG # Neue Galerie # PC #5# Unknown-Now # Dur # C 
+The Night Café # PER # Vincent van Gogh # PC #1#1888# Dur # C 
+The Night Café # PER # Ivan Morozov # PC #2# Unknown ##
+The Night Café # PER # Stephen Carlton Clark # PC #4# Unknown ##
+The Night Café # ORG # Soviet authorities # PC #3# Unknown-1930 # Dur # C 
+The Night Café # ORG # Yale University # PC #5# Unknown-Now # Dur # C 
+The Night Café # GPE # Moscow # PC #2# Unknown ##
+The Night Café # GPE # New Haven, Connecticut # PC #5# Unknown-Now # Dur # C 
+Garçon à la pipe # PER # Pablo Picasso # PC #1#1905# Dur # C 
+Garçon à la pipe # PER # John Hay Whitney # PC #2#1950# Dur # C 
+Garçon à la pipe # PER # Guido Barilla # PUC #4# 2004-Now # Dur # C 
+Garçon à la pipe # ORG # Sotheby's auction # PC #3#2004# Dur # C 
+Garçon à la pipe # GPE # New York City # PC #3#2004# Dur # C 
+The Conspiracy of Claudius Civilis # PER # Rembrandt # PC #1# 1661-1662 # Dur # C 
+The Conspiracy of Claudius Civilis # PER # Nicolaas Kohl # PC #2#1734# Dur # C 
+The Conspiracy of Claudius Civilis # PER # Sophia Grill # PC #2#1767# Dur # UC 
+The Conspiracy of Claudius Civilis # PER # Henrik Wilhelm Peill # PC #5# Unknown ##
+The Conspiracy of Claudius Civilis # PER # Claes Grill # PC #4# Unknown ##
+The Conspiracy of Claudius Civilis # ORG # Royal Swedish Academy of Arts # PC #6# Unknown-Now # Dur # C 
+The Conspiracy of Claudius Civilis # ORG # Royal Palace # PC #6.1# Unknown ##
+The Conspiracy of Claudius Civilis # ORG # Nationalmuseum # PC #6.2#1864# Dur # C 
+The Conspiracy of Claudius Civilis # ORG # Nationalmuseum # PC #8# Unknown-Now # Dur # C 
+The Conspiracy of Claudius Civilis # ORG # Rijksmuseum # PC #7# Unknown ##
+The Conspiracy of Claudius Civilis # GPE # Amsterdam # PC #2#1734# Dur # C 
+The Conspiracy of Claudius Civilis # GPE # Sweden # PC #2#1767# Dur # UC 
+The Conspiracy of Claudius Civilis # GPE # Stockholm # PC #6.2#1864# Dur # C 
+The Conspiracy of Claudius Civilis # GPE # Stockholm # PC #8# Unknown-Now # Dur # C 
+The Conspiracy of Claudius Civilis # GPE # Amsterdam # PC #7# Unknown ##
+Flaming June # PER # Frederic Leighton # PC #1#1895# Dur # C 
+Flaming June # PER # Jeremy Maas # PC #6#1963# Dur # C 
+Flaming June # ORG # The Graphic magazine # PC #2#1895# Dur # C 
+Flaming June # ORG # Ashmolean Museum # PC #3#1900# Dur # UC 
+Flaming June # ORG # Battersea home # PC #4#1960# Dur # UC 
+Flaming June # ORG # a shop on the Kings Road # PC #5#1960# Dur # UC 
+Flaming June # ORG # The Maas Gallery # PC #6#1963# Dur # C 
+Flaming June # ORG # Museo de Arte de Ponce # PC #7# Unknown ##
+Flaming June # ORG # Museo de Arte de Ponce # PC #9# Unknown ##
+Flaming June # ORG # Museo de Arte de Ponce # PC #11# Unknown ##
+Flaming June # ORG # Museo de Arte de Ponce # PC #13# Unknown ##
+Flaming June # ORG # Museo de Arte de Ponce # PC #15# Unknown-Now # Dur # C 
+Flaming June # ORG # Museo del Prado # PC #8#2008# Dur # C 
+Flaming June # ORG # Staatsgalerie Stuttgart # PC #10#2009# Dur # C 
+Flaming June # ORG # Frick Collection # PC #12#2015# Dur # C 
+Flaming June # ORG # Leighton House Museum # PC #14#2016# Dur # C 
+Flaming June # GPE # Ponce, Puerto Rico # PC #7# Unknown ##
+Flaming June # GPE # Ponce, Puerto Rico # PC #9# Unknown ##
+Flaming June # GPE # Ponce, Puerto Rico # PC #11# Unknown ##
+Flaming June # GPE # Ponce, Puerto Rico # PC #13# Unknown ##
+Flaming June # GPE # Ponce, Puerto Rico # PC #15# Unknown-Now # Dur # C 
+Flaming June # GPE # Madrid # PC #8#2008# Dur # C 
+Flaming June # GPE # Germany # PC #10#2009# Dur # C 
+Flaming June # GPE # Kensington # PC #14#2016# Dur # C 
+The Dream (Rousseau painting) # PER # Henri Rousseau # PC #1#1910# Dur # C 
+The Dream (Rousseau painting) # PER # Ambroise Vollard # PC #3#1910# Dur # C 
+The Dream (Rousseau painting) # PER # Sidney Janis # PC #4#1934# Dur # C 
+The Dream (Rousseau painting) # PER # Nelson A. Rockefeller # PC #5#1954# Dur # C 
+The Dream (Rousseau painting) # ORG # Salon des Indépendants # PC #2#1910# Dur # C 
+The Dream (Rousseau painting) # ORG # Museum of Modern Art # PC #6# Unknown-Now # Dur # C 
+The Dream (Rousseau painting) # GPE # New York # PC #6# Unknown-Now # Dur # C 
+Woman with a Parasol - Madame Monet and Her Son # PER # Claude Monet # PC #1#1875# Dur # C 
+Woman with a Parasol - Madame Monet and Her Son # PER # Dr. Georges de Bellio # PC #3#1876# Dur # C 
+Woman with a Parasol - Madame Monet and Her Son # PER # de Bellio's daughter # PC #4# Unknown ##
+Woman with a Parasol - Madame Monet and Her Son # PER # Ernest Donop de Monchy # PC #4# Unknown ##
+Woman with a Parasol - Madame Monet and Her Son # PER # Georges Menier # PC #5# Unknown-1965 # Dur # C 
+Woman with a Parasol - Madame Monet and Her Son # PER # Paul Mellon # PC #6# 1965-1983 # Dur # C 
+Woman with a Parasol - Madame Monet and Her Son # ORG # the second Impressionist exhibition # PC #2#1876# Dur # C 
+Woman with a Parasol - Madame Monet and Her Son # ORG # National Gallery of Art # PC #7# 1983-Now # Dur # C 
+Woman with a Parasol - Madame Monet and Her Son # GPE # Paris # PC #5# Unknown-1965 # Dur # C 
+Woman with a Parasol - Madame Monet and Her Son # GPE # Washington DC # PC #7# 1983-Now # Dur # C 
+The Gleaners # PER # Jean-François Millet # PC #1#1857# Dur # C 
+The Gleaners # PER # Binder # PC #3# Unknown ##
+The Gleaners # PER # Ferdinand Bischoffsheim # PC #4# Unknown-1889 # Dur # C 
+The Gleaners # PER # Jeanne-Alexandrine Louise Pommery # PC #5#1889# Dur # C 
+The Gleaners # ORG # Salon # PC #2#1857# Dur # C 
+The Gleaners # ORG # Louvre # PC #6#1891# Dur # C 
+The Gleaners # ORG # Musée d'Orsay # PC #7# Unknown-Now # Dur # C 
+The Gleaners # GPE # Paris # PC #7# Unknown-Now # Dur # C 
+The Hireling Shepherd # PER # William Holman Hunt # PC #1#1851# Dur # C 
+The Hireling Shepherd # ORG # Royal Academy # PC #2# Unknown ##
+The Hireling Shepherd # ORG # Manchester Art Gallery # PC #3# Unknown-Now # Dur # C 
+Nude, Green Leaves and Bust # PER # Pablo Picasso # PC #1#1932# Dur # C 
+Nude, Green Leaves and Bust # PER # Sidney # PC #2# Unknown ##
+Nude, Green Leaves and Bust # PER # Frances Brody # PC #2# Unknown ##
+Nude, Green Leaves and Bust # PER # Christie # PC #3#2010# Dur # C 
+Nude, Green Leaves and Bust # ORG # Private collection # PC #4#2010# Dur # C 
+Nude, Green Leaves and Bust # ORG # Tate Modern # PC #5# Unknown-Now # Dur # C 
+Nude, Green Leaves and Bust # GPE # Los Angeles # PC #2# Unknown ##
+Nude, Green Leaves and Bust # GPE # New York City # PC #3#2010# Dur # C 
+A Cotton Office in New Orleans # PER # Edgar Degas # PC #1#1873# Dur # C 
+A Cotton Office in New Orleans # ORG # the second Impressionist show # PC #2#1876# Dur # C 
+A Cotton Office in New Orleans # ORG # Musee des Beaux-Arts # PC #3# 1878-Now # Dur # C 
+A Cotton Office in New Orleans # GPE # Paris # PC #2#1876# Dur # C 
+A Cotton Office in New Orleans # GPE # Pau, France # PC #2# 1878-Now # Dur # C 
+The Embarkation for Cythera # PER # Jean-Antoine Watteau # PC #1#1717# Dur # C 
+The Embarkation for Cythera # ORG # Royal Academy of Painting and Sculpture # PC #2#1717# Dur # C 
+The Embarkation for Cythera # ORG # Louvre # PC #3# 1795-Now # Dur # C 
+A Girl in the Street, Two Coaches in the Background # PER # Vincent van Gogh # PC #1#1882# Dur # C 
+A Girl in the Street, Two Coaches in the Background # PER # Arthur Hahnloser # PC #2#1913# Bef # C 
+A Girl in the Street, Two Coaches in the Background # ORG # The Hague # PC #1#1882# Dur # C 
+A Girl in the Street, Two Coaches in the Background # ORG # Villa Flora # PC #3# Unknown-Now # Dur # C 
+A Girl in the Street, Two Coaches in the Background # GPE # Winterthur # PC #3# Unknown-Now # Dur # C 
+The Astronomer (Vermeer) # PER # Johannes Vermeer # PC #1#1668# Dur # UC 
+The Astronomer (Vermeer) # PER # Adriaen Paets # PUC #2# Unknown-1713 # Dur # C 
+The Astronomer (Vermeer) # PER # Hendrik Sorgh # PUC #3#1713# Dur # C 
+The Astronomer (Vermeer) # PER # Léon Gauchez # PC #4# 1881-1888 # Dur # UC 
+The Astronomer (Vermeer) # PER # Alphonse James de Rothschild # PC #5# 1881-1888 # Dur # UC 
+The Astronomer (Vermeer) # PER # Édouard Alphonse James de Rothschild # PC #6# Unknown-1940 # Dur # C 
+The Astronomer (Vermeer) # PER # Édouard Alphonse James de Rothschild # PC #8# Unknown ##
+The Astronomer (Vermeer) # PER # Einsatzstab Reichsleiter Rosenberg # PC #7#1940# Dur # C 
+The Astronomer (Vermeer) # ORG # the French state # PC #9# 1983-Now # Dur # C 
+The Astronomer (Vermeer) # ORG # Louvre # PC #9# 1983-Now # Dur # C 
+The Astronomer (Vermeer) # GPE # Rotterdam # PUC #2# Unknown-1713 # Dur # C 
+The Astronomer (Vermeer) # GPE # Rotterdam # PUC #3#1713# Dur # C 
+The Astronomer (Vermeer) # GPE # Paris # PC #6# Unknown-1940 # Dur # C 
+Barge Haulers on the Volga # PER # Ilya Repin # PC #1# 1870-1873 # Dur # C 
+Barge Haulers on the Volga # PER # Tsar's second son # PC #2# Unknown ##
+Barge Haulers on the Volga # PER # Tsar's second son # PC #4#1873# Dur # C 
+Barge Haulers on the Volga # ORG # 1873 International Exhibition # PC #3#1873# Dur # C 
+Barge Haulers on the Volga # ORG # Russian Museum # PC #7# Russian Revoltuion-Now # Aft # C 
+Barge Haulers on the Volga # ORG # Vladimir Palace # PC #6# Russian Revolution # Bef # C 
+Barge Haulers on the Volga # GPE # Vienna # PC #3#1873# Dur # C 
+Barge Haulers on the Volga # GPE # outside Russia # PC #5#1878# Dur # C 
+Laughing Cavalier # PER # Frans Hals # PC #1#1624# Dur # C 
+Laughing Cavalier # PER # Pourtalès-Gorgier # PC #3#1822# Dur # C 
+Laughing Cavalier # PER # Richard Seymour-Conway # PC #4#1865# Dur # C 
+Laughing Cavalier # PER # Sir Richard Wallace Bt # PC #9# Unknown ##
+Laughing Cavalier # PER # widow # PC #10# Unknown ##
+Laughing Cavalier # ORG # The Hague # PC #2#1770# Dur # C 
+Laughing Cavalier # ORG # Hertford's Paris home # PC #5#1871# Dur # C 
+Laughing Cavalier # ORG # Bethnal Green # PC #7# Unknown ##
+Laughing Cavalier # ORG # Royal Academy # PC #8#1888# Dur # C 
+Laughing Cavalier # ORG # Wallace Collection # PC #11# Unknown-Now # Dur # C 
+Laughing Cavalier # GPE # Paris # PC #4#1865# Dur # C 
+Laughing Cavalier # GPE # London # PC #6#1871# Aft # C 
+Laughing Cavalier # GPE # the nation # PC #11# Unknown-Now # Dur # C 
+The Third of May 1808 # PER # Francisco Goya # PC #1#1814# Dur # C 
+The Third of May 1808 # ORG # storage # PUC #2# Unknown ##
+The Third of May 1808 # ORG # Prado inventory # PC #3#1834# Dur # C 
+The Third of May 1808 # ORG # government or monarchy # PC #3#1834# Dur # C 
+The Third of May 1808 # ORG # the museum # PC #4#1819# Dur # C 
+The Third of May 1808 # ORG # Museo del Prado # PC #6# Unknown-Now # Dur # C 
+The Third of May 1808 # GPE # Valencia # PC #5# Spanish Civil War # Dur # C 
+The Third of May 1808 # GPE # Madrid # PC #6# Unknown-Now # Dur # C 
+The Potato Eaters # PER # Vincent van Gogh # PC #1#1885# Dur # C 
+The Potato Eaters # PER # the robbers # PC #3#1991# Dur # C 
+The Potato Eaters # ORG # the Vincent van Gogh National Museum # PC #2# Unknown-1991 # Dur # C 
+The Potato Eaters # ORG # the Vincent van Gogh National Museum # PC #4# 1991-Now # Dur # C 
+The Potato Eaters # GPE # Nuenen, Netherlands # PC #1#1885# Dur # C 
+The Birth of Venus # PER # Sandro Botticelli # PC #1#1480# Dur # UC 
+The Birth of Venus # ORG # Villa di Castello # PC #2# 1477-1815 # Dur # UC 
+The Birth of Venus # ORG # Uffizi Gallery # PC #3#1815# Dur # C 
+The Birth of Venus # ORG # Uffizi Gallery # PC #5# Unknown-Now # Dur # C 
+The Birth of Venus # ORG # Galleria dell'Accademia # PC #4# Unknown-1919 # Dur # C 
+The Birth of Venus # GPE # Florence, Italy # PC #3#1815# Dur # C 
+The Birth of Venus # GPE # Florence, Italy # PC #4# Unknown-1919 # Dur # C 
+The Birth of Venus # GPE # Florence, Italy # PC #5# Unknown-Now # Dur # C 
+White on White # PER # Kazimir Malevich # PC #1#1918# Dur # C 
+White on White # PER # Hugo Häring # PC #3#1927# Dur # C 
+White on White # PER # Alexander Dorner # PC #4#1930# Dur # C 
+White on White # ORG # Große Berliner Austellung # PC #2#1927# Dur # C 
+White on White # ORG # Provinzialmuseum # PC #4#1930# Dur # C 
+White on White # ORG # storage # PC #5#1933# Dur # C 
+White on White # ORG # Museum of Modern Art # PC #6# 1935-Now # Dur # C 
+White on White # GPE # Berlin # PC #2#1927# Dur # C 
+Sleeping Venus (Giorgione) # PER # Giorgione # PC #1# Unknown ##
+Sleeping Venus (Giorgione) # PER # Titian # PUC #2#1510# Dur # C 
+Sleeping Venus (Giorgione) # ORG # Gemäldegalerie # PC #3# Unknown-Now # Dur # C 
+Sleeping Venus (Giorgione) # GPE # Dresden # PC #3# Unknown-Now # Dur # C 
+The Garden of Earthly Delights # PER # Hieronymus Bosch # PC #1# 1490-1510 # Dur # UC 
+The Garden of Earthly Delights # PER # Engelbrecht II of Nassau # PUC #2# Unknown ##
+The Garden of Earthly Delights # PER # Henry III of Nassau-Breda # PUC #2# Unknown ##
+The Garden of Earthly Delights # PER # William the Silent # PC #3# Unknown ##
+The Garden of Earthly Delights # PER # Duke of Alba # PC #4#1568# Dur # C 
+The Garden of Earthly Delights # PER # Don Fernando # PC #5# Unknown ##
+The Garden of Earthly Delights # PER # Phillip II # PC #6#1591# Dur # C 
+The Garden of Earthly Delights # PER # El Escorial # PC #7#1593# Dur # C 
+The Garden of Earthly Delights # ORG # Museo del Prado # PC #8# 1939-Now # Dur # C 
+The Garden of Earthly Delights # GPE # Spain # PC #4#1568# Dur # C 
+The Garden of Earthly Delights # GPE # Madrid # PC #8# 1939-Now # Dur # C 
+The Wedding at Cana # PER # Paolo Veronese # PC #1#1563# Dur # C 
+The Wedding at Cana # ORG # the San Giorgio monastery # PC #2# 16th Century-18th Century # Dur # C 
+The Wedding at Cana # ORG # soldiers of Napoleon # PC #3#1797# Dur # C 
+The Wedding at Cana # ORG # the Louvre Museum # PC #4#1798# Dur # C 
+The Wedding at Cana # ORG # Musée Napoléon # PC #5#1803# Dur # C 
+The Wedding at Cana # ORG # Brest # PC #6# 1870-1871 # Dur # C 
+The Wedding at Cana # ORG # the Louvre Museum # PC #8# Unknown-Now # Dur # C 
+The Wedding at Cana # GPE # southern France # PC #7# Second World War # Dur # C 
+Liberty Leading the People # PER # Eugène Delacroix # PC #1#1830# Dur # C 
+Liberty Leading the People # PER # Eugène Delacroix # PC #4# Unknown ##
+Liberty Leading the People # PER # Félicité # PC #5# Unknown ##
+Liberty Leading the People # ORG # The French government # PC #2#1831# Dur # C 
+Liberty Leading the People # ORG # palace's museum gallery # PC #3# Unknown ##
+Liberty Leading the People # ORG # exhibit # PUC #7#1848# Dur # C 
+Liberty Leading the People # ORG # Salon # PC #8#1855# Dur # C 
+Liberty Leading the People # ORG # Louvre # PC #9#1874# Dur # C 
+Liberty Leading the People # ORG # Louvre # PC #12# Unknown ##
+Liberty Leading the People # ORG # Grand Palais # PC #9# 1974-1975 # Dur # C 
+Liberty Leading the People # ORG # Louvre-Lens # PC #13# 2012-Now # Dur # C 
+Liberty Leading the People # GPE # Detroit # PC #10#1975# Dur # C 
+Liberty Leading the People # GPE # New York # PC #11#1975# Dur # C 
+Liberty Leading the People # GPE # Lens, Pas-de-Calais # PC #13# 2012-Now # Dur # C 
+Liberty Leading the People # GPE # Paris # PC #9#1874# Dur # C 
+Liberty Leading the People # GPE # Paris # PC #12# Unknown ##
+Olympia (Manet) # PER # Édouard Manet # PC #1#1863# Dur # C 
+Olympia (Manet) # ORG # Paris Salon # PC #2#1865# Dur # C 
+Olympia (Manet) # ORG # The French government # PC #3# 1890-Now # Dur # C 
+Olympia (Manet) # ORG # Musée d'Orsay # PC #3# 1890-Now # Dur # C 
+Olympia (Manet) # GPE # Paris # PC #3# 1890-Now # Dur # C 
+Christina's World # PER # Andrew Wyeth # PC #1#1948# Dur # C 
+Christina's World # PER # Alfred Barr # PC #3# 1948-Now # Dur # C 
+Christina's World # ORG # Museum of Modern Art # PC #3# 1948-Now # Dur # C 
+Christina's World # ORG # Macbeth Gallery # PC #2#1948# Dur # C 
+Christina's World # GPE # Manhattan # PC #2#1948# Dur # C 
+Painting (1946) # PER # Francis Bacon # PC #1#1946# Dur # C 
+Painting (1946) # PER # Erica Brausen # PC #3#1946# Dur # C 
+Painting (1946) # ORG # Cromwell Place studio # PC #2#1946# Dur # C 
+Painting (1946) # ORG # Exposition internationale d'arte moderne # PC #4#1946# Dur # C 
+Painting (1946) # ORG # Musée National d'Art Moderne # PC #5# Unknown ##
+Painting (1946) # ORG # Hanover gallery # PC #6# Unknown ##
+Painting (1946) # ORG # Redfern gallery # PC #3#1946# Dur # C 
+Painting (1946) # ORG # Museum of Modern Art # PC #7# 1948-Now # Dur # C 
+Luncheon of the Boating Party # PER # Pierre-Auguste Renoir # PC #1# 1880-1881 # Dur # C 
+Luncheon of the Boating Party # PER # Paul Durand-Ruel # PC #3# Unknown ##
+Luncheon of the Boating Party # PER # his son # PC #4# Unknown-1923 # Dur # C 
+Luncheon of the Boating Party # PER # Duncan Phillips # PC #5#1923# Dur # C 
+Luncheon of the Boating Party # ORG # Seventh Impressionist Exhibition # PC #2#1882# Dur # C 
+Luncheon of the Boating Party # ORG # The Phillips Collection # PC #6# Unknown-Now # Dur # C 
+Luncheon of the Boating Party # GPE # Washington, D.C # PC #6# Unknown-Now # Dur # C 
+Bathsheba at Her Bath (Rembrandt) # PER # Rembrandt # PC #1#1654# Dur # C 
+Bathsheba at Her Bath (Rembrandt) # PER # Dr. Louis La Caze # PC #2#1869# Bef # C 
+Bathsheba at Her Bath (Rembrandt) # GPE # The Louvre # PC #3# 1869-Now # Dur # C 
+A Sunday Afternoon on the Island of La Grande Jatte # PER # Georges Seurat # PC #1#1884# Dur # C 
+A Sunday Afternoon on the Island of La Grande Jatte # ORG # Art Institute of Chicago # PC #2#1924# Dur # C 
+A Sunday Afternoon on the Island of La Grande Jatte # ORG # Art Institute of Chicago # PC #4# 1958-Now # Dur # C 
+A Sunday Afternoon on the Island of La Grande Jatte # ORG # Museum of Modern Art # PC #3#1958# Dur # C 
+A Sunday Afternoon on the Island of La Grande Jatte # GPE # New York # PC #3#1958# Dur # C 
+Annunciation (Leonardo) # PER # Leonardo da Vinci # PC #1# 1472-1475 # Dur # UC 
+Annunciation (Leonardo) # PER # Andrea del Verrocchio # PC #1# 1472-1475 # Dur # UC 
+Annunciation (Leonardo) # ORG # Uffizi gallery # PC #3# Unknown-Now # Dur # C 
+Annunciation (Leonardo) # ORG # Olivetan monastery of San Bartolomeo # PC #2#1867# Dur # C 
+Annunciation (Leonardo) # GPE # Florence, Italy # PC #2#1867# Dur # C 
+Annunciation (Leonardo) # GPE # Florence, Italy # PC #3# Unknown-Now # Dur # C 
+Guernica (Picasso) # PER # Pablo Picasso # PC #1#1937# Dur # C 
+Guernica (Picasso) # ORG # Paris International Exposition # PC #2#1937# Dur # C 
+Guernica (Picasso) # ORG # HE Nunn & Co Ford automobile showroom # PC #7.1#1939# Dur # C 
+Guernica (Picasso) # ORG # San Francisco Museum of Art # PC #9.1#1939# Dur # C 
+Guernica (Picasso) # ORG # Museum of Modern Art # PC #9.2# 1939-1940 # Dur # C 
+Guernica (Picasso) # ORG # Museum of Modern Art # PC #12# Unknown ##
+Guernica (Picasso) # ORG # Museum of Modern Art # PC #15# Unknown ##
+Guernica (Picasso) # ORG # Casón del Buen Retiro # PC #16#1981# Dur # C 
+Guernica (Picasso) # ORG # Museo del Prado # PC #17# Unknown-1992 # Dur # C 
+Guernica (Picasso) # ORG # Museo Nacional Centro de Arte Reina Sofía # PC #18# 1992-Now # Dur # C 
+Guernica (Picasso) # GPE # Scandinavia # PC #3#1938# Dur # C 
+Guernica (Picasso) # GPE # Oslo # PC #3.1# Unknown ##
+Guernica (Picasso) # GPE # Copenhagen # PC #3.2# Unknown ##
+Guernica (Picasso) # GPE # Stockholm # PC #3.3# Unknown ##
+Guernica (Picasso) # GPE # Göteborg # PC #3.4# Unknown ##
+Guernica (Picasso) # GPE # England # PC #4#1938# Dur # C 
+Guernica (Picasso) # GPE # London # PC #4#1938# Dur # C 
+Guernica (Picasso) # GPE # Whitechapel Art Gallery # PC #4#1938# Dur # C 
+Guernica (Picasso) # GPE # Leeds # PC #5# Unknown ##
+Guernica (Picasso) # GPE # Liverpool # PC #6# Unknown ##
+Guernica (Picasso) # GPE # Manchester # PC #7#1939# Dur # C 
+Guernica (Picasso) # GPE # France # PC #8# Unknown ##
+Guernica (Picasso) # GPE # United States # PC #9# 1939-1952 # Dur # C 
+Guernica (Picasso) # GPE # New York City # PC #9.2# 1939-1940 # Dur # C 
+Guernica (Picasso) # GPE # Brazil # PC #10# 1953-1956 # Dur # C 
+Guernica (Picasso) # GPE # Milan, Italy # PC #11# Unknown ##
+Guernica (Picasso) # GPE # major European cities # PUC #12# Unknown ##
+Guernica (Picasso) # GPE # Chicago # PC #13# Unknown ##
+Guernica (Picasso) # GPE # Philadelphia # PC #14# Unknown ##
+Guernica (Picasso) # GPE # Spain # PC #16#1981# Dur # C 
+Guernica (Picasso) # GPE # Madrid # PC #16#1981# Dur # C 
+Guernica (Picasso) # GPE # Madrid # PC #17# Unknown-1992 # Dur # C 
+Guernica (Picasso) # GPE # Madrid # PC #18# 1992-Now # Dur # C 
+Head of a Woman (Leonardo) # PER # Leonardo da Vinci # PC #1#1500# Dur # UC 
+Head of a Woman (Leonardo) # ORG # Galleria Nazionale di Parma # PC #3# Unknown-Now # Dur # C 
+Head of a Woman (Leonardo) # ORG # House of Gonzaga # PC #2#1627# Dur # C 
+Head of a Woman (Leonardo) # GPE # Italy # PC #3#1961# Dur # C 
+The Gross Clinic # PER # Thomas Eakins # PC #1#1875# Dur # C 
+The Gross Clinic # ORG # Centennial Exhibition # PC #2#1876# Dur # C 
+The Gross Clinic # ORG # Thomas Jefferson University # PC #3# Unknown ##
+The Gross Clinic # ORG # Philadelphia Museum of Art # PC #4# Unknown-Now # Dur # C 
+The Gross Clinic # ORG # Pennsylvania Academy of Fine Arts # PC #4# Unknown-Now # Dur # C 
+The Gross Clinic # GPE # Philadelphia # PC #3# Unknown ##
+Mona Lisa # PER # Salaì # PC #2#1524# Dur # C 
+Mona Lisa # PER # Louis XIV # PC #4# Unknown ##
+Mona Lisa # PER # Napoleon # PC #6# Unknown ##
+Mona Lisa # PER # Vincenzo Peruggia # PC #10# 1911-1914 # Dur # C 
+Mona Lisa # PER # Leonardo da Vinci # PC #1# 1503-1524 # Dur # UC 
+Mona Lisa # ORG # Louvre Museum # PC #5# French Revolution # Aft # C 
+Mona Lisa # ORG # Louvre Museum # PC #7# Unknown ##
+Mona Lisa # ORG # Louvre Museum # PC #14#1914# Dur # C 
+Mona Lisa # ORG # Louvre Museum # PC #17# Unknown ##
+Mona Lisa # ORG # Louvre Museum # PC #19# Unknown ##
+Mona Lisa # ORG # Louvre Museum # PC #22# Unknown-Now # Dur # C 
+Mona Lisa # ORG # Palace of Fontainebleau # PC #3# Unknown ##
+Mona Lisa # ORG # Palace of Versailles # PC #4# Unknown ##
+Mona Lisa # ORG # Tuileries Palace. # PC #6# Unknown ##
+Mona Lisa # ORG # Brest Arsenal # PC #8# 1870-1871 # Dur # C 
+Mona Lisa # ORG # Château d'Amboise # PC #13# World War II # Dur # C 
+Mona Lisa # ORG # Loc-Dieu Abbey # PC #14# World War II # Dur # C 
+Mona Lisa # ORG # Château de Chambord # PC #15# World War II # Dur # C 
+Mona Lisa # ORG # Ingres Museum # PC #16# World War II # Dur # C 
+Mona Lisa # ORG # Uffizi Gallery # PC #11#1914# Dur # C 
+Mona Lisa # ORG # French Republic # PC #5# French Revolution # Aft # C 
+Mona Lisa # ORG # French Republic # PC #7# Unknown ##
+Mona Lisa # ORG # French Republic # PC #14#1914# Dur # C 
+Mona Lisa # ORG # French Republic # PC #17# Unknown ##
+Mona Lisa # ORG # French Republic # PC #19# Unknown ##
+Mona Lisa # ORG # French Republic # PC #22# Unknown-Now # Dur # C 
+Mona Lisa # GPE # Paris # PC #5# French Revolution # Aft # C 
+Mona Lisa # GPE # Paris # PC #7# Unknown ##
+Mona Lisa # GPE # Paris # PC #14#1914# Dur # C 
+Mona Lisa # GPE # Paris # PC #17# Unknown ##
+Mona Lisa # GPE # Paris # PC #19# Unknown ##
+Mona Lisa # GPE # Paris # PC #22# Unknown-Now # Dur # C 
+Mona Lisa # GPE # Florence, Italy # PC #1# 1503-1524 # Dur # UC 
+Mona Lisa # GPE # Florence, Italy # PC #11#1911# Dur # C 
+Mona Lisa # GPE # Montauban # PC #16# World War II  # Dur # C 
+Mona Lisa # GPE # United States # PC #18# 1962-1963 # Dur # C 
+Mona Lisa # GPE # New York City # PC #18.1# 1962-1963 # Dur # C 
+Mona Lisa # GPE # Washington, D.C. # PC #18.2# 1962-1963 # Dur # C 
+Mona Lisa # GPE # Tokyo # PC #20#1974# Dur # C 
+Mona Lisa # GPE # Moscow # PC #21#1974# Dur # C 
+Madonna Litta # PER # Leonardo da Vinci # PC #1# 15th Century # Dur # C 
+Madonna Litta # PER # Giuseppe Ro # PC #4#1784# Bef # C 
+Madonna Litta # PER # Prince Alberico XII di Belgioioso # PC #5#1784# Dur # C 
+Madonna Litta # PER # Count Antonio Litta # PC #6.1#1865# Bef # C 
+Madonna Litta # PER # Alexander II # PC #7# 1865-Now # Dur # C 
+Madonna Litta # ORG # Hermitage Museum # PC #7# 1865-Now # Dur # C 
+Madonna Litta # ORG # House of Litta # PC #6#1813# Dur # C 
+Madonna Litta # ORG # Ca' Contarini # PC #3#1543# Dur # C 
+Madonna Litta # GPE # Saint Petersburg # PC #7# 1865-Now # Dur # C 
+Madonna Litta # GPE # Venice # PUC #2#1500# Dur # UC 
+Madonna Litta # GPE # Russia # PC #7# 1865-Now # Dur # C 
+Whistler's Mother # PER # James McNeill Whistler # PC #1#1871# Dur # C 
+Whistler's Mother # ORG # Musée d'Orsay # PC #4# Unknown-Now # Dur # C 
+Whistler's Mother # ORG # Exhibition of the Royal Academy of Art # PC #2#1872# Dur # C 
+Whistler's Mother # ORG # Musée du Luxembourg # PC #3#1891# Dur # C 
+Whistler's Mother # ORG # Atlanta Art Association # PC #5#1962# Dur # C 
+Whistler's Mother # ORG # National Gallery of Art # PC #6#1994# Dur # C 
+Whistler's Mother # ORG # Detroit Institute of Arts # PC #7#2004# Dur # C 
+Whistler's Mother # ORG # Boston Museum of Fine Arts # PC #8#2006# Dur # C 
+Whistler's Mother # ORG # M. H. de Young Memorial Museum # PC #9#2010# Dur # C 
+Whistler's Mother # ORG # Norton Simon Museum # PC #10#2015# Dur # C 
+Whistler's Mother # ORG # Clark Art Institute # PC #11# Unknown ##
+Whistler's Mother # ORG # Art Institute of Chicago # PC #12#2017# Dur # C 
+Whistler's Mother # GPE # London # PC #2#1872# Dur # C 
+Whistler's Mother # GPE # Paris # PC #3#1891# Dur # C 
+Whistler's Mother # GPE # San Francisco # PC #9#2010# Dur # C 
+Whistler's Mother # GPE # Pasadena, California # PC #10#2015# Dur # C 
+Whistler's Mother # GPE # Williamstown, Massachusetts # PC #11# Unknown ##
+No. 5, 1948 # PER # Jackson Pollock # PC #1# 1948-1949 # Dur # C 
+No. 5, 1948 # PER # Alfonso A. Ossorio # PC #2# 1949-Unknown # Dur # C 
+No. 5, 1948 # PER # Samuel Irving Newhouse, Jr. # PC #3# Unknown ##
+No. 5, 1948 # PER # David Geffen # PC #4# Unknown-2006 # Dur # C 
+No. 5, 1948 # PER # David Martinez # PUC #5# 2006-Now # Dur # C 
+The Gulf Stream (painting) # PER # Winslow Homer # PC #1#1899# Dur # C 
+The Gulf Stream (painting) # PER # Winslow Homer # PC #3#1900# Dur # C 
+The Gulf Stream (painting) # ORG # Pennsylvania Academy of the Fine Arts # PC #2#1900# Dur # C 
+The Gulf Stream (painting) # ORG # National Academy of Design # PC #5#1906# Dur # C 
+The Gulf Stream (painting) # ORG # Metropolitan Museum of Art # PC #6# Unknown-Now # Dur # C 
+The Gulf Stream (painting) # ORG # Carnegie Institute # PC #3# Unknown ##
+Hope II # PER # Gustav Klimt # PC #1# 1907-1908 # Dur # C 
+Hope II # PER # Eugenie Primavesi # PC #3#1914# Dur # C 
+Hope II # PER # Neue Galerie # PC #4#1930# Dur # UC 
+Hope II # PER # Vita Künstler # PC #4#1930# Dur # UC 
+Hope II # PER # Hans Barnas # PC #5# Unknown-1978 # Dur # C 
+Hope II # ORG # first Vienna Kunstschau # PC #2#1961# Dur # C 
+Hope II # ORG # private collections # PC #5# Unknown-1978 # Dur # C 
+Hope II # ORG # Museum of Modern Art # PC #5# 1978-Now # Dur # C 
+Hope II # GPE # Otto Kallir # PC #4#1930# Dur # UC 
+Hope II # GPE # New York # PC #5# 1978-Now # Dur # C 
+A Bar at the Folies-Bergère # PER # Édouard Manet # PC #1#1882# Dur # C 
+A Bar at the Folies-Bergère # PER # Emmanuel Chabrier # PC #3# Unknown ##
+A Bar at the Folies-Bergère # ORG # Paris Salon # PC #2#1882# Dur # C 
+A Bar at the Folies-Bergère # ORG # Courtauld Gallery # PC #4# Unknown-Now # Dur # C 
+A Bar at the Folies-Bergère # GPE # London # PC #4# Unknown-Now # Dur # C 
+The Barque of Dante # PER # Eugène Delacroix # PC #1#1822# Dur # C 
+The Barque of Dante # ORG # Salon # PC #2#1822# Dur # C 
+The Barque of Dante # ORG # the French State # PC #3#1822# Dur # C 
+The Barque of Dante # ORG # Musée du Luxembourg # PC #3#1822# Dur # C 
+The Barque of Dante # ORG # Musée du Louvre # PC #4# 1874-Now # Dur # C 
+American Gothic # PER # Grant Wood # PC #1#1930# Dur # C 
+American Gothic # ORG # Art Institute of Chicago # PC #2# Unknown ##
+American Gothic # ORG # Musée de l'Orangerie # PC #3# 2016-2017 # Dur # C 
+American Gothic # ORG # Royal Academy of Arts # PC #4# 2017-Now # Dur # C 
+American Gothic # GPE # Paris # PC #3# 2016-2017 # Dur # C 
+American Gothic # GPE # London # PC #4# 2017-Now # Dur # C 
+The Mill (Rembrandt) # PER # Rembrandt Harmenszoon van Rijn # PUC #1# 1645-1648 # Dur # UC 
+The Mill (Rembrandt) # PER # Peter Arrell Brown Widener # PC #2# Unknown ##
+The Mill (Rembrandt) # ORG # Orleans Collection # PC #3# Unknown ##
+The Mill (Rembrandt) # ORG # National Gallery of Art # PC #4# Unknown-Now # Dur # C 
+The Mill (Rembrandt) # GPE # Washington DC # PC #4# Unknown-Now # Dur # C 
+Nebra sky disk # PER # Henry Westphal # PC #1#1999# Dur # C 
+Nebra sky disk # PER # Mario Renner # PC #1#1999# Dur # C 
+Nebra sky disk # PER # a dealer # PC #2#1999# Dur # C 
+Nebra sky disk # PER # Harald Meller # PC #4#2002# Dur # C 
+Nebra sky disk # PER # a couple # PC #3# Unknown ##
+Nebra sky disk # ORG # State Museum of Prehistory # PC #5# Unknown-Now # Dur # C 
+Nebra sky disk # GPE # Saxony-Anhalt # PC #1#1999# Dur # C 
+Nebra sky disk # GPE # Germany # PC #1#1999# Dur # C 
+Nebra sky disk # GPE # Cologne # PC #2#1999# Dur # C 
+Nebra sky disk # GPE # Halle # PC #5# Unknown-Now # Dur # C 
+Portrait of a Young Man (Raphael) # PER # Raphael # PC #1# 1513-1514 # Dur # UC 
+Portrait of a Young Man (Raphael) # PER # Adam Jerzy Czartoryski # PC #2#1798# Dur # C 
+Portrait of a Young Man (Raphael) # PER # Prince Augustyn Józef Czartoryski # PC #4#1939# Dur # C 
+Portrait of a Young Man (Raphael) # PER # Gestapo # PC #6# Unknown ##
+Portrait of a Young Man (Raphael) # PER # Hans Frank # PC #7#1945# Dur # C 
+Portrait of a Young Man (Raphael) # ORG # Czartoryski Museum # PC #3# Unknown ##
+Portrait of a Young Man (Raphael) # ORG # Wawel Castle # PC #7#1945# Dur # C 
+Portrait of a Young Man (Raphael) # ORG # Neuhaus am Schliersee # PC #9# Unknown ##
+Portrait of a Young Man (Raphael) # ORG # Sieniawa # PC #5# Unknown ##
+Portrait of a Young Man (Raphael) # GPE # Poland # PC #2#1798# Dur # C 
+Portrait of a Young Man (Raphael) # GPE # Kraków # PC #7#1945# Dur # C 
+Portrait of a Young Man (Raphael) # GPE # Silesia # PC #8# Unknown ##
+Portrait of a Young Man (Raphael) # GPE # Germany # PC #7#1945# Dur # C 
+Girl with a Pearl Earring # PER # Johannes Vermeer # PC #1# 17th Century # Dur # C 
+Girl with a Pearl Earring # PER # Arnoldus Andries des Tombe # PC #3#1881# Dur # C 
+Girl with a Pearl Earring # ORG # The Hague # PC #2#1881# Dur # C 
+Girl with a Pearl Earring # ORG # Mauritshuis # PC #4#1902# Dur # C 
+Girl with a Pearl Earring # ORG # Mauritshuis # PC #8# 2014-Now # Dur # C 
+Girl with a Pearl Earring # ORG # National Museum of Western Art # PC #5#2012# Dur # C 
+Girl with a Pearl Earring # ORG # High Museum # PC #6.1# 2013-2014 # Dur # C 
+Girl with a Pearl Earring # ORG # de Young Museum # PC #6.2# 2013-2014 # Dur # C 
+Girl with a Pearl Earring # ORG # Frick Collection # PC #6.2# 2013-2014 # Dur # C 
+Girl with a Pearl Earring # GPE # Tokyo # PC #5#2012# Dur # C 
+Girl with a Pearl Earring # GPE # United States # PC #6# 2013-2014 # Dur # C 
+Girl with a Pearl Earring # GPE # Atlanta # PC #6.1# 2013-2014 # Dur # C 
+Girl with a Pearl Earring # GPE # San Francisco # PC #6.2# 2013-2014 # Dur # C 
+Girl with a Pearl Earring # GPE # New York City # PC #6.2# 2013-2014 # Dur # C 
+Girl with a Pearl Earring # GPE # Bologna # PC #7#2014# Dur # C 
+Girl with a Pearl Earring # GPE # Italy # PC #7#2014# Dur # C 
+Salvator Mundi (Leonardo) # PER # Leonardo da Vinci # PUC #1# 1506-1513 # Dur # UC 
+Salvator Mundi (Leonardo) # PER # Louis XII of France # PC #2# 1506-1513 # Dur # C 
+Salvator Mundi (Leonardo) # PER # Charles I of England # PC #3#1649# Dur # C 
+Salvator Mundi (Leonardo) # PER # Duke of Buckingham and Normanby # PC #4#1763# Dur # C 
+Salvator Mundi (Leonardo) # PER # Francis Cook, 1st Viscount of Monserrate # PC #5#1900# Dur # C 
+Salvator Mundi (Leonardo) # PER # Cook's descendants # PC #6# Unknown-1958 # Dur # C 
+Salvator Mundi (Leonardo) # PER # Robert Simon # PC #7#2005# Dur # C 
+Salvator Mundi (Leonardo) # PER # Dmitry Rybolovlev # PC #9# 2013-Now # Dur # C 
+Salvator Mundi (Leonardo) # ORG # consortium of art dealers # PC #7#2005# Dur # C 
+Salvator Mundi (Leonardo) # ORG # National Gallery # PC #8# 2011-2012 # Dur # C 
+Salvator Mundi (Leonardo) # GPE # London # PC #8# 2011-2012 # Dur # C 
+Breezing Up (A Fair Wind) # PER # Winslow Homer # PC #1# 1873-1876 # Dur # UC 
+Breezing Up (A Fair Wind) # ORG # National Academy of Design # PC #2#1876# Dur # C 
+Breezing Up (A Fair Wind) # ORG # Centennial Exposition # PC #3# Unknown ##
+Breezing Up (A Fair Wind) # ORG # National Gallery of Art # PC #4# 1943-Now # Dur # C 
+The Raft of the Medusa # PER # Théodore Géricault # PC #1# 1818-1819 # Dur # C 
+The Raft of the Medusa # ORG # Paris Salon # PC #2#1819# Dur # C 
+The Raft of the Medusa # ORG # Louvre # PC #5# Unknown-Now # Dur # C 
+The Raft of the Medusa # ORG # Château de Chambord # PC #4# Second World War # Dur # C 
+Flag (painting) # PER # Jasper Johns # PC #1# 1954-1955 # Dur # UC 
+Flag (painting) # PER # Johnson # PC #3# Unknown ##
+Flag (painting) # ORG # Leo Castelli Gallery # PC #2#1958# Dur # C 
+Flag (painting) # ORG # Museum of Modern Art # PC #4# Unknown-Now # Dur # C 
+Congregation Leaving the Reformed Church in Nuenen # PER # Vincent van Gogh # PC #1# 1884-1885 # Dur # C 
+Congregation Leaving the Reformed Church in Nuenen # PER # Guardia di Finanza # PC #3#2016# Dur # C 
+Congregation Leaving the Reformed Church in Nuenen # ORG # Van Gogh Museum # PC #2# Unknown-2002 # Dur # C 
+Congregation Leaving the Reformed Church in Nuenen # ORG # Van Gogh Museum # PC #4#2017# Dur # C 
+Congregation Leaving the Reformed Church in Nuenen # ORG # Castellammare di Stabia # PC #3#2016# Dur # C 
+The City Rises (Boccioni) # PER # Umberto Boccioni # PC #1#1910# Dur # C 
+The City Rises (Boccioni) # PER # Ferruccio Busoni # PC #3#1912# Dur # C 
+The City Rises (Boccioni) # ORG # Exhibition of free art # PC #2#1911# Dur # C 
+The City Rises (Boccioni) # ORG # the travelling futurist art exposition # PC #3#1912# Dur # C 
+The City Rises (Boccioni) # ORG # Museum of Modern Art # PC #4# Unknown-Now # Dur # C 
+The City Rises (Boccioni) # GPE # Milan # PC #2#1911# Dur # C 
+The City Rises (Boccioni) # GPE # Europe # PC #3#1912# Dur # C 
+The City Rises (Boccioni) # GPE # New York City # PC #4# Unknown-Now # Dur # C 
+Koh-i-Noor # PER # Queen Victoria # PC #15#1850# Dur # C 
+Koh-i-Noor # PER # Malik Kafur # PC #2#1310# Dur # UC 
+Koh-i-Noor # PER # Babur # PC #4#1526# Dur # C 
+Koh-i-Noor # PER # Humayun # PC #5# Unknown ##
+Koh-i-Noor # PER # Shah Jahan # PC #6# Unknown ##
+Koh-i-Noor # PER # Aurangazeb # PC #7# Unknown ##
+Koh-i-Noor # PER # Nader Shah # PC #8#1739# Dur # C 
+Koh-i-Noor # PER # Ahmad Shah Durrani # PC #9#1747# Dur # C 
+Koh-i-Noor # PER # Shah Shujah Durrani # PC #10#1808# Dur # C 
+Koh-i-Noor # PER # Maharaja Ranjit Singh # PC #11#1813# Dur # C 
+Koh-i-Noor # PER # Duleep Singh # PC #12# Unknown ##
+Koh-i-Noor # PER # Sir John Spencer Login # PC #13# Unknown ##
+Koh-i-Noor # PER # Marquess of Dalhousie # PC #14# Unknown ##
+Koh-i-Noor # ORG # Kakatiya dynasty. # PC #1# 13th Century # Dur # UC 
+Koh-i-Noor # ORG # Kollur Mine # PUC #1# 13th Century # Dur # UC 
+Koh-i-Noor # ORG # Khilji dynasty # PC #3#1310# Dur # UC 
+Koh-i-Noor # ORG # Buckingham Palace # PC #15#1850# Dur # UC 
+Koh-i-Noor # ORG # The Great Exhibition # PC #16#1851# Dur # C 
+Koh-i-Noor # GPE # Andhra Pradesh # PC #1# 13th Century # Dur # UC 
+Koh-i-Noor # GPE # India # PC #1# 13th Century # Dur # C 
+Koh-i-Noor # GPE # Hyde Park, London # PC #16#1851# Dur # C 
+Benois Madonna # PER # Leonardo da Vinci # PUC #1#1478# Dur # UC 
+Benois Madonna # PER # Leon Benois # PC #6#1909# Dur # C 
+Benois Madonna # PER # Aleksey Korsakov # PC #2#1790# Dur # UC 
+Benois Madonna # PER # Astrakhan merchant Sapozhnikov # PC #4# Unknown ##
+Benois Madonna # PER # the Benois family # PC #5#1880# Dur # C 
+Benois Madonna # PER # his son # PC #3# Unknown ##
+Benois Madonna # ORG # Saint Petersburg # PC #2#1909# Dur # C 
+Benois Madonna # ORG # Saint Petersburg # PC #6# 1914-Now # Dur # C 
+Benois Madonna # ORG # Hermitage Museum # PC #7# 1914-Now # Dur # C 
+Benois Madonna # GPE # Russia # PC #2#1909# Dur # C 
+Benois Madonna # GPE # Italy # PC #1#1478# Dur # C 
+Lady with an Ermine # PER # Leonardo da Vinci # PC #1# 1489-1490 # Dur # UC 
+Lady with an Ermine # ORG # the Czartoryski Foundation # PC #2# Unknown-2016 # Dur # UC 
+Lady with an Ermine # ORG # Polish Ministry of Culture and National Heritage # PC #3#2016# Dur # UC 
+Lady with an Ermine # ORG # National Museum in Kraków # PC #3# 2017-Now # Dur # UC 
+Paris Street; Rainy Day # PER # Gustave Caillebotte # PC #1#1877# Dur # C 
+Paris Street; Rainy Day # PER # Walter P. Chrysler Jr # PC #4#1955# Dur # C 
+Paris Street; Rainy Day # ORG # Third Impressionist Exhibition # PC #2#1877# Dur # C 
+Paris Street; Rainy Day # ORG # the family # PC #3# mid twentieth century # Dur # C 
+Paris Street; Rainy Day # ORG # Art Institute of Chicago # PC #5# 1964-Now # Dur # C 
+The Avenue in the Rain # PER # Childe Hassam # PC #1#1917# Dur # C 
+The Avenue in the Rain # PER # Thomas Mellon Evans # PC #2# Unknown-1963 # Dur # C 
+The Avenue in the Rain # ORG # the White House # PC #3# 1963-Now # Dur # C 
+David (Michelangelo) # PER # Michelangelo # PC #1# 1501-1504 # Dur # UC 
+David (Michelangelo) # ORG # Palazzo della Signoria # PC #2#1504# Dur # C 
+David (Michelangelo) # ORG # Accademia Gallery # PC #3#1873# Dur # C 
+David (Michelangelo) # GPE # Florence # PC #3# 1873-Now # Dur # C 
+Feast of the Rosary # PER # Albrecht Dürer # PC #1#1506# Dur # C 
+Feast of the Rosary # PER # Rudolf II # PC #2#1606# Dur # C 
+Feast of the Rosary # ORG # Strahov Monastery # PC #2# Unknown ##
+Feast of the Rosary # ORG # Rudolfinum # PC #4# Unknown ##
+Feast of the Rosary # ORG # the National Gallery # PC #5# Unknown-Now # Dur # C 
+Feast of the Rosary # GPE # Prague # PC #2#1606# Dur # C 
+Feast of the Rosary # GPE # Prague # PC #5# Unknown-Now # Dur # C 
+Primavera (painting) # PER # Sandro Botticelli # PC #1# 1470-1480 # Dur # UC 
+Primavera (painting) # ORG # collection of Lorenzo di Pierfrancesco de' Medici # PC #3#1499# Dur # C 
+Primavera (painting) # ORG # Uffizi Gallery # PC #4#1919# Dur # C 
+Primavera (painting) # ORG # Uffizi Gallery # PC #6# Unknown-Now # Dur # C 
+Primavera (painting) # ORG # Montegufoni Castle # PC #5# World War Two # Dur # C 
+Primavera (painting) # GPE # Florence # PC #4#1919# Dur # C 
+Primavera (painting) # GPE # Florence # PC #6# Unknown-Now # Dur # C 
+Oath of the Horatii # PER # Jacques-Louis David # PC #1#1784# Dur # C 
+Oath of the Horatii # ORG # the Salon # PC #2#1785# Dur # C 
+Oath of the Horatii # ORG # Louvre # PC #3# Unknown-Now # Dur # C 
+Oath of the Horatii # GPE # Paris # PC #3# Unknown-Now # Dur # C 
+Broadway Boogie Woogie # PER # Piet Mondrian # PC #1#1943# Dur # C 
+Broadway Boogie Woogie # PER # Maria Martins # PC #3#1943# Dur # C 
+Broadway Boogie Woogie # ORG # the Valentine Gallery # PC #2#1943# Dur # C 
+Broadway Boogie Woogie # ORG # Museum of Modern Art # PC #4# 1943-Now # Dur # C 
+Broadway Boogie Woogie # GPE # New York City # PC #2#1943# Dur # C 
+Broadway Boogie Woogie # GPE # New York City # PC #4# 1943-Now # Dur # C 
+The Ladies Waldegrave # PER # Joshua Reynolds, # PC #1# 1780-1781 # Dur # C 
+The Ladies Waldegrave # ORG # Royal Academy # PC #2#1781# Dur # C 
+The Ladies Waldegrave # ORG # National Gallery of Scotland # PC #3# 1952-Now # Dur # C 
+The Night Watch # PER # Rembrandt van Rijn # PC #1#1642# Dur # C 
+The Night Watch # ORG # Great Hall # PC #2# Unknown ##
+The Night Watch # ORG # Amsterdam # PC #2# Unknown ##
+The Night Watch # ORG # Amsterdam Town Hall # PC #3#1715# Dur # C 
+The Night Watch # ORG # Trippenhuis # PC #4# Unknown ##
+The Night Watch # ORG # Trippenhuis # PC #6# Unknown ##
+The Night Watch # ORG # Palace on the Dam # PC #5# Unknown ##
+The Night Watch # ORG # Dutch Academy of Sciences # PC #7# Unknown-Now # Dur # C 
+The Baptism of Christ (Verrocchio) # PER # Andrea del Verrocchio # PC #1#1475# Dur # UC 
+The Baptism of Christ (Verrocchio) # PER # Leonardo da Vinci # PUC #1#1475# Dur # UC 
+The Baptism of Christ (Verrocchio) # ORG # Church of S. Salvi # PC #2# Unknown ##
+The Baptism of Christ (Verrocchio) # ORG # Vallumbrosan Sisterhood # PC #3# Unknown ##
+The Baptism of Christ (Verrocchio) # ORG # Accademia # PC #4#1810# Dur # C 
+The Baptism of Christ (Verrocchio) # ORG # Uffizi Gallery # PC #5#1959# Dur # C 
+The Baptism of Christ (Verrocchio) # GPE # Santa Verdiana # PC #3# Unknown ##
+The Baptism of Christ (Verrocchio) # GPE # Florence # PC #5#1959# Dur # C 
+Saturn Devouring His Son # PER # Francisco Goya # PC #1# 1819-1823 # Dur # UC 
+Saturn Devouring His Son # PER # Mariano # PC #2# Unknown ##
+Saturn Devouring His Son # PER # changes of ownership # PC #3# Unknown ##
+Saturn Devouring His Son # PER # Emile d'Erlanger # PC #4#1874# Dur # C 
+Saturn Devouring His Son # ORG # Exposition Universelle # PC #5#1878# Dur # C 
+Saturn Devouring His Son # ORG # Spanish state # PC #6# 1878-Now # Dur # C 
+Saturn Devouring His Son # ORG # Museo del Prado # PC #6# 1878-Now # Dur # C 
+Saturn Devouring His Son # GPE # Paris # PC #5#1878# Dur # C 
+Saturn Devouring His Son # GPE # Madrid # PC #6# 1878-Now # Dur # C 
+The Milkmaid (Vermeer) # PER # Johannes Vermeer # PC #1# 1657-1658 # Dur # UC 
+The Milkmaid (Vermeer) # PER # Pieter van Ruijven # PUC #2# Unknown ##
+The Milkmaid (Vermeer) # PER # Maria de Knuijt # PUC #3# Unknown ##
+The Milkmaid (Vermeer) # PER # Magdelene van Ruijven # PC #4#1681# Bef # C 
+The Milkmaid (Vermeer) # PER # Jacob Dissius # PC #5# Unknown-1696 # Dur # C 
+The Milkmaid (Vermeer) # PER # Leendert Pieter de Neufville # PC #6# Unknown-1765 # Dur # C 
+The Milkmaid (Vermeer) # PER # her two sons # PC #11# Unknown-1908 # Dur # C 
+The Milkmaid (Vermeer) # ORG # five Amsterdam collections # PC #7# Unknown ##
+The Milkmaid (Vermeer) # ORG # Lucretia Johanna van Winter # PC #8# Unknown ##
+The Milkmaid (Vermeer) # ORG # Rijksmuseum # PC #12# Unknown ##
+The Milkmaid (Vermeer) # ORG # Amsterdam exhibition of "old masters" # PC #9#1872# Dur # C 
+The Milkmaid (Vermeer) # ORG # Stedelijk Museum Amsterdam # PC #10#1900# Dur # C 
+The Milkmaid (Vermeer) # ORG # Museum Boijmans Van Beuningen # PC #13#1921# Dur # C 
+The Milkmaid (Vermeer) # ORG # Royal Academy of Arts # PC #14#1929# Dur # C 
+The Milkmaid (Vermeer) # ORG # 1939 World's Fair # PC #15.1#1939# Dur # C 
+The Milkmaid (Vermeer) # ORG # Detroit Institute of Arts # PC #15.2# Unknown ##
+The Milkmaid (Vermeer) # ORG # Metropolitan Museum of Art # PC #15.3#1944# Dur # C 
+The Milkmaid (Vermeer) # ORG # Kunsthaus Zürich # PC #16#1953# Dur # C 
+The Milkmaid (Vermeer) # ORG # Palazzo delle Esposizioni # PC #17.1#1945# Dur # C 
+The Milkmaid (Vermeer) # ORG # Palazzo Reale # PC #17.2#1955# Dur # C 
+The Milkmaid (Vermeer) # ORG # Musée de l'Orangerie # PC #19#1966# Dur # C 
+The Milkmaid (Vermeer) # ORG # National Gallery of Art # PC #20# 1999-2000 # Dur # C 
+The Milkmaid (Vermeer) # ORG # National Gallery # PC #21#2001# Dur # C 
+The Milkmaid (Vermeer) # ORG # Metropolitan Museum of Art exhibition # PC #22#2009# Dur # C 
+The Milkmaid (Vermeer) # ORG # Louvre # PC #23#2017# Dur # C 
+The Milkmaid (Vermeer) # GPE # New York City # PC #15.1#1939# Dur # C 
+The Milkmaid (Vermeer) # GPE # the U.S. # PC #15# Unknown ##
+The Milkmaid (Vermeer) # GPE # Michigan # PC #15.2# Unknown ##
+The Milkmaid (Vermeer) # GPE # New York # PC #15.3#1944# Dur # C 
+The Milkmaid (Vermeer) # GPE # Rome # PC #17.1#1955# Dur # C 
+The Milkmaid (Vermeer) # GPE # Milan # PC #17.2#1945# Dur # C 
+The Milkmaid (Vermeer) # GPE # Italy # PC #17#1945# Dur # C 
+The Milkmaid (Vermeer) # GPE # Mauritshuis # PC #18#1966# Dur # C 
+The Milkmaid (Vermeer) # GPE # Paris # PC #19#1966# Dur # C 
+The Milkmaid (Vermeer) # GPE # Washington # PC #20# 1999-2000 # Dur # C 
+The Milkmaid (Vermeer) # GPE # London # PC #21#2001# Dur # C 
+The Milkmaid (Vermeer) # GPE # New York # PC #22#2009# Dur # C 
+The Milkmaid (Vermeer) # GPE # Paris # PC #23#2017# Dur # C 
+Ahasuerus and Haman at the Feast of Esther # PER # Rembrandt van Rijn # PC #1#1662# Dur # UC 
+Ahasuerus and Haman at the Feast of Esther # PER # Jan J. Hinlopen # PC #2#1660# Dur # UC 
+Ahasuerus and Haman at the Feast of Esther # PER # two daughters # PC #3# Unknown ##
+Ahasuerus and Haman at the Feast of Esther # PER # Sara Hinlopen # PUC #3.1# Unknown ##
+Ahasuerus and Haman at the Feast of Esther # PER # Nicolaes Geelvinck and his three sisters # PC #4# Unknown ##
+Ahasuerus and Haman at the Feast of Esther # PER # Nicolaes Geelvinck # PC #4.1# Unknown-1764 # Dur # C 
+Ahasuerus and Haman at the Feast of Esther # PER # Catherine the Great # PC #6#1764# Dur # C 
+Ahasuerus and Haman at the Feast of Esther # PER # Johann Ernst Gotzkowsky # PUC #5# Unknown-1764 # Dur # C 
+Ahasuerus and Haman at the Feast of Esther # ORG # Museum Rumyantsev # PC #7# 1862-1924 # Dur # C 
+Ahasuerus and Haman at the Feast of Esther # ORG # Pushkin Museum # PC #8# 1924-Now # Dur # C 
+Ahasuerus and Haman at the Feast of Esther # GPE # Moscow # PC #7# 1862-1924 # Dur # C 
+Ahasuerus and Haman at the Feast of Esther # GPE # Moscow # PC #8# 1924-Now # Dur # C 
+Girl with Ball # PER # Roy Lichtenstein # PC #1#1916# Dur # C 
+Girl with Ball # PER # Philip Johnson # PC #3# Unknown ##
+Girl with Ball # ORG # solo exhibition # PC #2#1961# Dur # C 
+Girl with Ball # ORG # Museum of Modern Art # PC #4# Unknown-Now # Dur # C 
+Ginevra de' Benci # PER # Leonardo da Vinci # PC #1# 15th Century # Dur # C 
+Ginevra de' Benci # ORG # National Gallery of Art # PC #3# 1967-Now # Dur # C 
+Ginevra de' Benci # ORG # House of Liechtenstein # PC #2#1967# Dur # C 
+Ginevra de' Benci # GPE # Washington, D.C. # PC #3# 1967-Now # Dur # C 
+Portrait of Madame X # PER # John Singer Sargent # PC #1#1884# Dur # C 
+Portrait of Madame X # ORG # Paris Salon # PC #2#1884# Dur # C 
+Portrait of Madame X # ORG # studio # PC #3# Unknown ##
+Portrait of Madame X # ORG # international exhibitions # PC #4#1905# Aft # C 
+Portrait of Madame X # ORG # Metropolitan Museum of Art # PC #5# 1916-Now # Dur # C 
+Portrait of Madame X # GPE # London # PC #3# Unknown ##
+Nighthawks # PER # Edward Hopper # PC #1#1942# Dur # C 
+Nighthawks # ORG # Art Institute of Chicago # PC #3# 1942-Now # Dur # C 
+Nighthawks # ORG # Rehn's # PC #2#1942# Dur # C 
+The Storm on the Sea of Galilee # PER # Rembrandt van Rijn # PC #1#1633# Dur # C 
+The Storm on the Sea of Galilee # PER # thieves # PC #3#1990# Dur # C 
+The Storm on the Sea of Galilee # ORG # Isabella Stewart Gardner Museum # PC #2# Unknown-1990 # Dur # C 
+The Storm on the Sea of Galilee # GPE # Boston, Massachusetts, United States # PC #2# Unknown-1990 # Dur # C 
+Irises (painting) # PER # Vincent van Gogh # PC #1#1890# Dur # C 
+Irises (painting) # PER # Julien "Père" Tanguy # PC #2# Unknown-1892 # Dur # C 
+Irises (painting) # PER # Octave Mirbeau # PC #3#1892# Dur # C 
+Irises (painting) # PER # Alan Bond # PC #4#1987# Dur # C 
+Irises (painting) # PER # J. Paul Getty Museum # PC #5#1990# Dur # C 
+Irises (painting) # GPE # Los Angeles # PC #5#1990# Dur # C 
+Boy Leading a Horse # PER # Pablo Picasso # PC #1# 1905-1906 # Dur # UC 
+Boy Leading a Horse # PER # Ambroise Vollard # PC #2# Unknown ##
+Boy Leading a Horse # PER # Gertrude # PC #3#1907# Dur # C 
+Boy Leading a Horse # PER # Leo Stein # PC #4#1913# Dur # C 
+Boy Leading a Horse # PER # Paul von Mendelssohn-Bartholdy # PC #5# 1934-1935 # Dur # C 
+Boy Leading a Horse # PER # Justin K. Thannhauser # PC #6# 1935-1936 # Dur # C 
+Boy Leading a Horse # PER # Albert Skira # PC #7#1936# Dur # C 
+Boy Leading a Horse # PER # William S. Paley # PC #8# 1936-1964 # Dur # C 
+Boy Leading a Horse # ORG # Jewish art gallery of Thannhauser # PC #6# 1935-1936 # Dur # C 
+Boy Leading a Horse # ORG # Museum of Modern Art # PC #9# 1964-Now # Dur # C 
+Boy Leading a Horse # GPE # Paris # PC #1# 1905-1906 # Dur # UC 
+Boy Leading a Horse # GPE # New York City # PC #9# 1964-Now # Dur # C 
+Charles I in Three Positions # PER # Sir Anthony van Dyck # PC #1# 1635-1636 # Dur # C 
+Charles I in Three Positions # PER # his heirs # PC #3# Unknown-1802 # Dur # C 
+Charles I in Three Positions # PER # William Buchanan # PC #4#1802# Dur # C 
+Charles I in Three Positions # PER # Gian Lorenzo Bernini # PC #2#1636# Dur # C 
+Charles I in Three Positions # ORG # Royal Collection # PC #6# 1822-Now # Dur # C 
+Charles I in Three Positions # ORG # Bernini Palace # PC #3# Unknown-1802 # Dur # C 
+Charles I in Three Positions # ORG # British Gallery # PC #5#1821# Dur # C 
+Charles I in Three Positions # ORG # Windsor Castle # PC #6# 1822-Now # Dur # UC 
+Charles I in Three Positions # GPE # England # PC #4#1802# Dur # C 
+Portrait of Dirck van Os # PER # Rembrandt # PC #1#1658# Dur # UC 
+Portrait of Dirck van Os # PER # a New York art dealer # PC #3#1898# Dur # C 
+Portrait of Dirck van Os # PER # Frederick Sears # PC #4#1899# Dur # C 
+Portrait of Dirck van Os # PER # private collector # PC #2# Unknown-1898 # Dur # C 
+Portrait of Dirck van Os # ORG # Joslyn Art Museum # PC #6# 1942-Now # Dur # C 
+Portrait of Dirck van Os # ORG # private collection # PC #5# Unknown-1942 # Dur # C 
+Portrait of Dirck van Os # GPE # St. Petersburg, Russia # PC #2# Unknown-1898 # Dur # C 
+Portrait of Dirck van Os # GPE # Omaha, Nebraska # PC #6# 1942-Now # Dur # C 
+The Hay Wain # PER # John Constable # PC #1#1821# Dur # C 
+The Hay Wain # PER # John Arrowsmith # PC #3#1824# Dur # C 
+The Hay Wain # PER # D. T. White # PC #5# Unknown ##
+The Hay Wain # PER # Young # PC #6# Unknown ##
+The Hay Wain # PER # Henry Vaughan # PC #7# Unknown ##
+The Hay Wain # ORG # Royal Academy # PC #2#1821# Dur # C 
+The Hay Wain # ORG # Paris Salon # PC #2#1824# Dur # C 
+The Hay Wain # ORG # National Gallery # PC #8# 1886-Now # Dur # C 
+The Hay Wain # GPE # England # PC #5# Unknown ##
+The Hay Wain # GPE # London # PC #8# 1886-Now # Dur # C 
+The Swing (painting) # PER # Jean-Honoré Fragonard # PC #1#1767# Dur # UC 
+The Swing (painting) # PER # M.-F. Ménage de Pressigny # PC #2# Unknown-1794 # Dur # C 
+The Swing (painting) # PER # marquis des Razins de Saint-Marc # PUC #4# Unknown ##
+The Swing (painting) # PER # duc de Morny # PC #6# Unknown # Dur # C 
+The Swing (painting) # PER # Lord Hertford # PC #7#1865# Dur # C 
+The Swing (painting) # ORG # revolutionary government # PC #3# Unknown # Dur # C 
+The Swing (painting) # GPE # Paris # PC #7#1865# Dur # C 
+The Swing (painting) # GPE # the Wallace Collection # PC #8# Unknown-Now # Dur # C 
+Les Demoiselles d'Avignon # PER # Pablo Picasso # PC #1#1907# Dur # C 
+Les Demoiselles d'Avignon # PER # Jacques Doucet # PC #3#1924# Dur # C 
+Les Demoiselles d'Avignon # ORG # studio of Picasso # PC #1#1907# Dur # C 
+Les Demoiselles d'Avignon # ORG # Salon d’Antin # PC #2#1916# Dur # C 
+Les Demoiselles d'Avignon # ORG # an exhibition # PC #4#1937# Dur # C 
+Les Demoiselles d'Avignon # ORG # Museum of Modern Art # PC #5# 1937-Now # Dur # C 
+Les Demoiselles d'Avignon # GPE # Le Bateau-Lavoir # PC #1#1907# Dur # C 
+Philosopher in Meditation # PER # Rembrandt # PC #1#1632# Dur # C 
+Philosopher in Meditation # ORG # aristocratic collections # PC #3# Unknown ##
+Philosopher in Meditation # ORG # the royal collections # PC #4# Unknown ##
+Philosopher in Meditation # ORG # Louvre # PC #4# Unknown-Now # Dur # C 
+Philosopher in Meditation # GPE # Paris # PC #2# 18th Century # Dur # C 
+Philosopher in Meditation # GPE # Paris # PC #4# Unknown-Now # Dur # C 
