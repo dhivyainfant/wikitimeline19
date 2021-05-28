@@ -5,8 +5,10 @@ Temporally-oriented possession: A corpus for tracking possession over time
 
 Official release, January 3, 2019.
 
-Paper:
+Papers:
 ---------------------------------------------------------------------------------------------------------------------------------------
+
+
 Dhivya Chinnappa, Alexis Palmer, Eduardo Blanco. 2020.
 WikiPossessions: Possession timeline generation as an evaluation benchmark for machine reading comprehension of long texts.
 In Proceedings of The 12th Language Resources and Evaluation Conference (LREC).
@@ -14,6 +16,7 @@ In Proceedings of The 12th Language Resources and Evaluation Conference (LREC).
 Dhivya Chinnappa, Alexis Palmer and Eduardo Blanco. 2019.
 Temporally-oriented possession: A corpus for tracking possession over time. 
 In Proceedings of the second meeting on Society for Computation in Linguistics(SCiL), Extended abstracts. New York City, United States.
+
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 Dhivya Chinnappa - Department of Computer Science and Computer Engineering, University of North Texas, Denton, TX.
@@ -23,6 +26,7 @@ Alexis Palmer - Department of Linguistics, University of North Texas, Denton, TX
 Eduardo Blanco - Department of Computer Science and Computer Engineering, University of North Texas, Denton, TX.
 
 Contact: dhivyainfantchinnappa@my.unt.edu, alexis.palmer@unt.edu, eduardo.blanco@unt.edu
+
 ========================================================================================
 
 The file annotations.csv provides annotations for tracking possession over time from 92 Wikipedia pages.
@@ -36,14 +40,9 @@ Refer paper for how the annotations are done.
 -----------------
 FILES and FOLDERS
 -----------------
-annotations			Folder containing the annotated XML file
+annotations			Folder containing the annotated CSV file
 html_annotated			Contains 92 HTML Wikipedia pages used to track possessions over time
-read_annotations.py		Python file to read the annotations
-print_wiki_annotations.py	Python file to print the contents of Wikipedia and annotations
-data_structures.py		Python file used to build data structures from the annotations
-print_wiki_annotations_output	Output after running print_wiki_annotations.py
-
-       
+      
 ------------------------
 ANNOTATIONS EXPLANATION
 ------------------------
